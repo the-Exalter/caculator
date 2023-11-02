@@ -18,6 +18,7 @@ body {
 #calculator:hover {
     box-shadow: 20px 20px 100px #424479;
 }
+
 button {
     border-radius: 20px;
     height: 70px;
