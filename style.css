@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-size: 60px
+    font-size: 60px;
 }
 body {
     background-color: #3c3e58;
@@ -17,17 +17,6 @@ body {
 }
 #calculator:hover {
     box-shadow: 20px 20px 100px #424479;
-}
-
-#prev-dis, #output {
-    width: 250px;
-    height: 50px;
-/*     margin-top: 10px; */
-    margin-left: 50px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 30px;
-    font-weight: bold;
-    background-color: #161b33;
 }
 button {
     border-radius: 20px;
@@ -52,7 +41,7 @@ button:hover {
     text-align: right;
     background-color: #161b33;
     height: 50px;
-    width: 250px;
+    width: 320px;
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 45px;
