@@ -34,7 +34,10 @@ button:hover {
     background-color: #474973;
 }
 
-#ac, #equal {
+#ac {
+    width: 160px;
+}
+#equal {
     width: 160px;
 }
 #opt {
