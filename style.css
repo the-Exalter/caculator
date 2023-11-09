@@ -24,6 +24,7 @@ button {
     height: 70px;
     border: none;
     background-color: #3c3e58;
+    color: black;
     margin-top: 10px;
     width: 75px;
     margin-left: 4px;
@@ -33,6 +34,7 @@ button {
 }
 button:hover {
     background-color: #474973;
+    color: white;
 }
 
 #ac {
@@ -44,6 +46,8 @@ button:hover {
 #opt {
     text-align: right;
     background-color: #161b33;
+    margin-left: auto;
+    margin-right: auto;
     height: 50px;
     width: 320px;
     color: #fff;
